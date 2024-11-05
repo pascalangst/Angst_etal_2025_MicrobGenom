@@ -1,2 +1,6 @@
-# Angst_etal_2024_MicrobGenom
-Scripts used in Angst et al. (2024) 
+## Repository containing scripts and materials related to the [manuscript]() titled: Genomic analysis of the zooplankton-associated pathogenic bacterium _Spirobacillus cienkowskii_ reveals its functional and metabolic capacities
+
+
+### Abstract
+
+Genomic information can yield new insights into the molecular and physiological mechanisms that underpin pathogen virulence and transmission. We decode the genome of Spirobacillus cienkowskii Metchnikoff, 1889, a gram-negative bacterium and one of the first described parasites of Daphnia. We use long-read sequencing and extensive annotation to assemble the complete circular genome of 2.81 Mbp with 2,486 protein-coding genes. In addition to antiviral systems, including CRISPR-Cas and restriction-modification systems, we describe the likely molecular basis of the unusual red phenotype of S. cienkowskii, which results from carotenoid production. We further describe genetic modules that may mediate this bacterium’s interactions with its host and environment. Our study provides insight into the metabolic and functional capacities of a parasite through the assessment of its genome. More generally, it demonstrates what can be learned by applying recent advances in high-throughput sequencing to the study of parasites. 
