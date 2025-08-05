@@ -1,4 +1,4 @@
-## Repository containing scripts and materials related to the [manuscript]() titled: Genomic analysis of the zooplankton-associated pathogenic bacterium _Spirobacillus cienkowskii_ reveals its functional and metabolic capacities
+## Repository containing scripts and materials related to the [manuscript](https://doi.org/10.1099/mgen.0.001463) titled: Genomic analysis of the zooplankton-associated pathogenic bacterium _Spirobacillus cienkowskii_ reveals its functional and metabolic capacities
 
 
 ### Abstract
